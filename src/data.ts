@@ -249,7 +249,7 @@ export const pizzas: Products = [
     title: 'Bella Napoli',
     desc: 'A classic Italian delight featuring a thin, crispy crust, tangy tomato sauce, fresh mozzarella, and a medley of aromatic herbs topped with lettuce, tomatoes, and a dollop of tangy mayo.',
     img: '/temporary/p3.png',
-    price: 22.9,
+    price: 22.99,
     options: [
       {
         title: 'Small',
@@ -270,7 +270,7 @@ export const pizzas: Products = [
     title: 'Pesto Primavera',
     desc: 'A classic Italian delight featuring a thin, crispy crust, tangy tomato sauce, fresh mozzarella, and a medley of aromatic herbs topped with lettuce, tomatoes, and a dollop of tangy mayo.',
     img: '/temporary/p10.png',
-    price: 12.9,
+    price: 12.99,
     options: [
       {
         title: 'Small',
@@ -291,7 +291,7 @@ export const pizzas: Products = [
     title: 'Veggie Supreme',
     desc: 'A classic Italian delight featuring a thin, crispy crust, tangy tomato sauce, fresh mozzarella, and a medley of aromatic herbs topped with lettuce, tomatoes, and a dollop of tangy mayo.',
     img: '/temporary/p11.png',
-    price: 13.9,
+    price: 13.99,
     options: [
       {
         title: 'Small',
@@ -312,7 +312,7 @@ export const pizzas: Products = [
     title: 'Four Cheese Fantasy',
     desc: 'Experience pure cheesy bliss with a melty blend of mozzarella, cheddar, provolone, and Parmesan cheeses, creating a rich and indulgent pizza experience.',
     img: '/temporary/p12.png',
-    price: 20.9,
+    price: 20.99,
     options: [
       {
         title: 'Small',
